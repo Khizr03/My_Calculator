@@ -21,7 +21,7 @@ namespace Lommeregner_intro
             Console.ResetColor();
             Boolean stop = false;
             while (!stop)
-            // while (true) gør at programmet kører indtil den får en false.
+
             {
                 try
             {
